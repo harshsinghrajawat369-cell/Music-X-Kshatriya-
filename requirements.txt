@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+ffmpeg-python
+motor
+requests
