@@ -4,9 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python3 main.py",
-    "restartPolicyType": "ON_FAILURE",
-    "healthCheckTimeout": 300
+    "startCommand": "python3 -m anony",
+    "restartPolicyType": "ON_FAILURE"
   }
 }
-
